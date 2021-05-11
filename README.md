@@ -1,7 +1,8 @@
 # hw3
 
 ## Set up 
-**Note**: You can simply copy  libraries from your lab and skip following steps.
+Except for main.cpp, config.h, wifi_mqtt/mqtt_client.py, mbed_app.json and magic_wand_model_data.cpp, other files are identical to  labs.You can simply copy  libraries from your lab and replace those files and skip the following steps
+
 1. Add "4DGL-uLCD-SE" library to the current project 
 ```shell=
  git clone https://gitlab.larc-nthu.net/ee2405_2021/4dgl-ulcd-se.git
