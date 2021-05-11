@@ -63,7 +63,6 @@ Default value: **30°** degrees.
 
 options: 30°、40°、50°、60° 
 ## The result
-ulcd  
 
 ![](https://i.imgur.com/LTXpdSw.jpg)
 
