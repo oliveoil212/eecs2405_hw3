@@ -58,7 +58,8 @@ sudo screen /dev/ttyACM0
 ### Gesture
 The "you cant see me" gesture of John Cena
 ### Threshold angle
-Default value: **30°** degrees.
+Default value: **30°** degrees.  
+
 options: 30°、40°、50°、60° 
 ## The result
 ![](https://i.imgur.com/ZkqVhUT.png)
